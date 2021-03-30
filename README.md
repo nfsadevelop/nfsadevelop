@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nicolas Fernando
+- 👀 I’m interested in mobile and back-end applications.
+- 🌱 I’m currently learning Flutter and Node.JS
+- 💞️ I’m looking to collaborate on applications in different branches of the market.
